@@ -63,6 +63,7 @@ git clone <url-do-repositorio>
 VOLTA PARA O ARQUIVO ORIGINAL, CANCELA TODAS AS MODIFICAÇÕES FEITAS
 git restore <nome-do-arquivo>
 
+aaaaaaaaaaaaa
 
 
-
+aaaaaaaaaaaaa
